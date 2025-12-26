@@ -30,5 +30,9 @@ The Industrial Talk and Visit program operated smoothly. However, there are some
 – During the talk, the microphone sound was a little too low, students at the back of the hall could not hear the content clearly.
 
 3) Adjust the lighting
-– The lighting was generally good during the talk. However, to improve it further, the lighting could be dimmed during the slide presentation to make the text clearer and sharper.
+– The lighting was generally good during the talk. However, to improve it further, the lighting could be dimmed during the slide presentation to make the text sharper.
+
+Reflection : <br>
+From this Industrial Talk, I realise that communication is a key to produce a good project. Either communication between teammates or between customer and project manager, both party need to maintain good communication for the project to be successfull, between cost range, and can be done before the due date.
+
 <!-- Failed to upload "WhatsApp Video 2025-12-26 at 4.22.58 PM.mp4" -->
