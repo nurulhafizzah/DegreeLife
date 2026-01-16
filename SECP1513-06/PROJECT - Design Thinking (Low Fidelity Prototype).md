@@ -41,5 +41,12 @@ Improvement <br>
 Some Improvement that can be made to our project are creating feedback and rate form, enabling users to provide comments and rate after completing the counselling session.
 
 Reflection <br>
-F
+a. What is your goal/dream with regard to your course/program? 
+My goal towards my program is to master all the courses that I have learned. I aim to build a strong network and computer security base as I want to pursue my ambition as a cybersecurity analyst. 
+
+b. How does this design thinking impact on your goal/dream with regard to your program? 
+This Design Thinking project has impacted my vision towards job scope in computer science related. A lot of effort is needed to make this project a success, along with tiredness. However, it doesn’t make me give up, instead makes it more interesting.  
+
+c. What is the action/improvement/plan necessary for you to improve your potential in the industry?
+Some of the improvements I had planned is to join a workshop that related to cybersecurity. I am aware that people with more additional skills tend to be picked up by a big company. I also plan to learn new language.  
 
