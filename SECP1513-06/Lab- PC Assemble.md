@@ -1,7 +1,7 @@
-# PC Assemble
-Date : 5 November 2025 (Wednesday).
-Time :  12.00 - 1.00 pm
-Location : 
+# PC Assemble <br>
+Date : 5 November 2025 (Wednesday).<br>
+Time :  12.00 - 1.00 pm <br>
+Location : Software Innovation Lab, N28 <br>
 
 
 During the conduction of PC Assemble, we have been devided into several group consist of 5-6 members. My group members are Iman, Sharifah, Nurin, Wong and me.
