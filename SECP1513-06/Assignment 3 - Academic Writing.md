@@ -6,7 +6,7 @@ Date of submission: 2 January 2026 <br>
 
 - Summarization <br>
 Industry Talk 2 was conducted to provide students with early exposure to how project management and system development are applied in the workplace and why they are very important to the IT industry and future careers.
-Some of the content that had been shared by the speaker are :<br><br>
+Some of the content that had been shared by the speaker are :<br>
 
 1) Project Management <br>
    This part focus on application of knowledge, skills, tools, and techniques project manager should have to achieve the project’s requirements.
