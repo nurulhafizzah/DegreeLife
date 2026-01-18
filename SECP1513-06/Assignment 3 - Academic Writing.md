@@ -19,5 +19,3 @@ I love the way the speaker explain his content especially using the analogy of c
 
 - Reflection <br>
 This talk exposed me to the reality of the work scope; it makes me realize the importance of understanding what I had learned in university as I am going to apply it in my job. Hence, to be successful in my next four years, I am planning to focus on my studies at university and join a lot of computer science related workshops to secure my ambition as a cybersecurity analyst.
-
-[link](file:///C:/Users/Fifi/Downloads/ASSIGNMENT%203%20-%20ACADEMIC%20WRITING%20TIS%20SECTION%2006%20(1).pdf)
