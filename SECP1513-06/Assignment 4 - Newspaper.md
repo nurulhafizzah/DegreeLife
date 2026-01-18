@@ -14,3 +14,6 @@ the actual process of managing logistics hubs.
 
 - Reflection <br>
 This visit gave me a clearer example of how technologies can affect the world especially in port business. I also learned that the computer science field will be a high demand  job in the future as technologies continue to advance. This makes me feel proud and relieved as I will have a lot of job opportunities in the future.
+
+[ASSIGNMENT 4 - NEWSPAPER.docx](https://github.com/user-attachments/files/24694645/Assignment.4.Newsletter.docx)
+
