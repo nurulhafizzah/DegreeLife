@@ -15,3 +15,5 @@ For the improvement, I really hope that we can get more time to learn about the 
 
 - Reflection <br>
 I learn that being a computer science student doesnt mean that i just need to mastering codding, but also need to know how to assemble and disassemble computer. I think its because we are going to spend our time a lot with our computer, thus it is crucial to know some basic things for preparation in the future. 
+![WhatsApp Image 2026-01-18 at 5 29 04 PM![WhatsApp Image 2026-01-18 at 5 29 05 PM](https://github.com/user-attachments/assets/b725a2ed-3db7-416a-9f2f-50a057714620)
+](https://github.com/user-attachments/assets/118f46fd-b995-45a9-a8e8-9b0436fbbeb4)
