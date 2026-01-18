@@ -51,3 +51,10 @@ This Design Thinking project has impacted my vision towards job scope in compute
 c. What is the action/improvement/plan necessary for you to improve your potential in the industry?
 Some of the improvements I had planned is to join a workshop that related to cybersecurity. I am aware that people with more additional skills tend to be picked up by a big company. I also plan to learn new language.  
 
+
+[DESIGN THINKING SLIDE PRESENTATION](https://github.com/user-attachments/files/24694682/CyberCare.CC.A.Smart.Online.Counseling.Platform.for.Cyberbullying.Victims.pdf)
+[DESUGN THINKING REPORT](https://github.com/user-attachments/files/24694694/TIS.DESIGN.THINKING.REPORT.CYBERCARE.SECTION.06.pdf)
+
+
+
+
